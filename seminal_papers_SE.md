@@ -47,7 +47,7 @@ IEEE Transactions on Software Engineering, vol.SE-2, pp. 80-86, Jun. 1976.
 
 James C. King.
 [Symbolic execution and program testing](https://dx.doi.org/10.1145/360248.360252).
-CACM 19(7), 385-394, July 1976.
+Communications of the ACM, vol. 19, pp. 385-394, July 1976.
 
 ## 1980s
 
@@ -93,7 +93,7 @@ IEEE Software, vol.5, pp. 73-79, Mar. 1988.
 
 ## 1990s
 
-Robert Allen and David Garlan.
+Robert Allen, David Garlan.
 [Formalizing Architectural Connection](https://dx.doi.org/10.1109/ICSE.1994.296767).
 Proceedings of 16th International Conference on Software Engineering, 1994, pp. 71-80.
 
@@ -107,7 +107,7 @@ Proceedings of the 17th International Conference on Software Engineering, 1995, 
 
 Robert E. Kraut, Lynn A. Streeter.
 [Coordination in Software Development](https://dx.doi.org/10.1145/203330.203345).
-Communications of the ACM, vol.38, pp.69-81, Mar.1995.
+Communications of the ACM, vol. 38, pp. 69-81, Mar. 1995.
 
 Peri Tarr, Harold Ossher, William Harrison, Stanley M Sutton.
 [N Degrees of Separation: Multi-Dimensional Separation of Concerns](https://dx.doi.org/10.1145/302405.302457).
